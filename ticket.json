@@ -1,0 +1,20 @@
+{
+    "name": "Concert Ticket #1",
+    "description": "This is a ticket for the awesome concert on 2024-12-15.",
+    "image": "https://link-to-ticket-image.com/image1.png",
+    "attributes": [
+      {
+        "trait_type": "Section",
+        "value": "A"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "12"
+      },
+      {
+        "trait_type": "Date",
+        "value": "2024-12-15"
+      }
+    ]
+  }
+  
