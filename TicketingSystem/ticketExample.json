@@ -1,19 +1,27 @@
 {
-    "name": "Concert Ticket #1",
-    "description": "This is a ticket for the awesome concert on 2024-12-15.",
+    "name": "Concert Ticket",
+    "description": "A ticket example",
     "image": "https://link-to-ticket-image.com/image1.png",
     "attributes": [
       {
+        "trait_type": "Venue",
+        "value": "Taipei Arena"
+      },
+      {
         "trait_type": "Section",
-        "value": "A"
+        "value": "yellow 2c"
       },
       {
         "trait_type": "Seat",
-        "value": "12"
+        "value": "row 1, No.12"
       },
       {
         "trait_type": "Date",
         "value": "2024-12-15"
+      },
+      {
+        "trait_type": "ticketID",
+        "value": "1"
       }
     ]
   }
